@@ -1,0 +1,13 @@
+int main ()  {
+
+float notas[3] = { 85.5, 90.0, 78.3 };  //Array de notas
+
+printf("Nota do aluno 1 é: %.if /n", notas[0]);
+
+printf("Nota do aluno 2 é:%.if /n", notas[1]);
+
+printf("Nota do aluno 3 é:%.if /n", notas[2]);
+
+Return 0;
+
+}
