@@ -1,0 +1,13 @@
+int main () {
+
+char *nomes[] = {"Alice", "Bob", "Carol"};
+
+for(int i = 0; i < 3; i++)
+{
+
+printf("%5 /n", nomes[i]);
+}
+
+Return 0;
+
+}
